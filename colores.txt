@@ -1,0 +1,5 @@
+#53334B
+#A25053 
+--Degrade de estos dos colores 
+
+#D15A59
