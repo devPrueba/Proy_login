@@ -2,4 +2,5 @@
 #A25053 
 --Degrade de estos dos colores 
 
-#D15A59
+#A24753
+#C25456
